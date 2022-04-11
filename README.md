@@ -1,7 +1,7 @@
 # odoo-install
 Install Odoo on a VPS (Ubuntu 20.04)
 
-Usage: ./odoo_install.sh <domain> <admin pass> <external git? ''> <sleep?30>
+Usage: ./odoo_install.sh \<domain\> \<admin pass\> <external git? ''> <sleep?30>
 
 Just launch the command giving the domain name on which the ssl certificate has to be installed,
 
